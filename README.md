@@ -1,1 +1,10 @@
 # Git-Task
+![image](https://github.com/ductandev/Git-Task/assets/42485856/5aac721f-7302-4785-88ea-36d31272fa75)
+![image](https://github.com/ductandev/Git-Task/assets/42485856/42da74f4-5a3a-47e4-9457-f2c47707e364)
+![image](https://github.com/ductandev/Git-Task/assets/42485856/afb6d4cb-ebfd-485d-9c75-dce6575366b7)
+![image](https://github.com/ductandev/Git-Task/assets/42485856/21d2dea5-307b-4df3-b60c-70b7347127b2)
+![image](https://github.com/ductandev/Git-Task/assets/42485856/1f0c13c6-c0e5-4680-a09e-83678ed9425b)
+![image](https://github.com/ductandev/Git-Task/assets/42485856/e6744794-09f5-467c-bbfa-167e40e54ee7)
+![image](https://github.com/ductandev/Git-Task/assets/42485856/7aceb0dc-2623-4aa0-8b16-1677dc0e6c4f)
+![image](https://github.com/ductandev/Git-Task/assets/42485856/661bd13a-03cc-4384-9c30-1284906344c7)
+![image](https://github.com/ductandev/Git-Task/assets/42485856/4efa6e04-0f8e-4973-88c4-2a0a6e328113)
